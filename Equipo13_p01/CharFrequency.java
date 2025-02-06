@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class CharFrequency {
     public static void main(String[] args) {
-        String archivo = "archivo.txt";
+        String archivo = "random_text_200k.txt";
         String cadena = "";
 
         // En esta parte se lee el archivo
